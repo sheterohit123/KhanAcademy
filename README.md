@@ -1,2 +1,1 @@
-# KhanAcademy
 # KhanAca
